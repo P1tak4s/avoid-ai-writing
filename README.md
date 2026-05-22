@@ -17,6 +17,21 @@ A [Claude Code](https://claude.ai/code) skill that audits and rewrites prose in 
 
 Download `avoid-ai-writing.zip` from [Releases](../../releases) and install it in Claude Code, or clone this repo and point Claude Code at the folder.
 
+After installing the skill, copy the commands to your Claude Code commands folder:
+
+```bash
+cp avoid-ai-writing/commands/* ~/.claude/commands/
+```
+
+## Commands
+
+| Command | What it does |
+|---|---|
+| `/fix-ai-slop` | Audits and rewrites any text (LT or EN) |
+| `/rašyk-lt` | Writes Lithuanian copy from scratch — polite, no AI patterns |
+| `/rašyk-en` | Writes English copy from scratch — no AI patterns |
+| `/scan-website` | Scans entire project, shows all AI text issues, fixes with approval |
+
 ## Usage
 
 Trigger phrases (English or Lithuanian):
