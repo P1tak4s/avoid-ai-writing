@@ -27,6 +27,7 @@ Load these into context as needed:
 - `references/vlkk-grammar-rules.md` - Official VLKK 2022 spelling rules: brūkšnelis vs brūkšnys, kabutės, skaičiai, sutrumpinimai
 - `references/vlkk-skyryba-rules.md` - Official VLKK 2020 punctuation rules: kableliai, brūkšniai, dvitaškiai, bullet sąrašai, kabutės
 - `references/linkeviciene-editing.md` - Linkevičienė "Redagavimo pradmenys" (VU 2013): semantizmai (wrongly used words), vertiniai, stiliaus reikalavimai, morfologijos/sintaksės klaidos
+- `references/seo-copy.md` - SEO copy rules for Lithuanian sites: title ≤60, meta ≤160, H1/H2 structure, URL format, local keywords
 
 ## Process
 
