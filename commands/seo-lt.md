@@ -1,11 +1,24 @@
-SEO auditas lietuviškoms svetainėms. Sujungia techninius SEO patikrinimus su lietuviškos copy kokybės analize.
+SEO + AI SEO auditas lietuviškoms svetainėms. Sujungia tradicinius SEO patikrinimus su AI paieškos matomumo analize ir lietuviškos copy kokybe.
 
 ## Naudok šiuos skillius kartu
+
+**Tradicinis SEO:**
 - `seo-audit` - techninis + on-page SEO
 - `seo-technical` - robots.txt, sitemap, canonicals, Core Web Vitals
 - `seo-local` - jei vietinis verslas (GBP, NAP, vietiniai raktažodžiai)
 - `seo-content-auditor` - turinio kokybė ir E-E-A-T
-- `avoid-ai-writing` → `references/seo-copy.md` - lietuviškos copy taisyklės
+- `seo-sxo` - kodėl puslapis nerankinuoja net jei techniškai tvarkingas (intent mismatch)
+
+**AI SEO (GEO):**
+- `seo-geo` - matomumas Google AI Overviews, ChatGPT, Perplexity, Bing Copilot
+- `ai-seo` - AI paieškos optimizavimas
+
+**Lietuviška copy:**
+- `avoid-ai-writing` → `references/seo-copy.md` - title/meta taisyklės
+- `avoid-ai-writing` → `references/lithuanian-patterns.md` - LT kalbos klaidos
+
+**Gyvų duomenų šaltinis (jei prijungtas):**
+- `seo-dataforseo` - realūs SERP duomenys, rakažodžių apimtys, konkurentai
 
 ---
 
@@ -192,7 +205,92 @@ Papildomai patikrink visą matomą tekstą pagal `references/seo-copy.md` ir `re
 
 ---
 
-## 7 žingsnis - ataskaita
+## 7 žingsnis - AI SEO / GEO matomumas
+
+Naudok `seo-geo` skillio metodologiją. Tai **ypač svarbu 2025-2026** - AI paieška auga 527% per metus.
+
+### Citabilumas (ar AI cituos šį puslapį?)
+
+AI sistemoms (ChatGPT, Perplexity, Google AI Overviews) svarbu:
+
+**1. Konkreti, citatai tinkama informacija:**
+- [ ] Ar yra konkretūs faktai, skaičiai, datos? ("Dirbame nuo 2010 m.", "Per 24 val.", "Nuo 50 €")
+- [ ] Ar yra aiškūs apibrėžimai / atsakymai į klausimus? ("Kas yra X?", "Kiek kainuoja Y?")
+- [ ] Ar tekstas parašytas kaip autoritetingas ekspertas (E-E-A-T)?
+- [ ] Ar nėra AI generuoto tušto teksto (kurį AI atpažįsta kaip nepatikimą)?
+
+**2. Struktūrinis skaitomumas AI crawleriams:**
+- [ ] Antraštės (H2/H3) atsako į klausimus: "Kiek kainuoja?", "Kaip veikia?"
+- [ ] Trumpi, aiškūs paragrafai (≤3 sakiniai idealiai)
+- [ ] Sąrašai ir lentelės (lengviau cituoti)
+- [ ] FAQ sekcija su konkrečiais atsakymais
+
+**3. AI crawlerių prieiga:**
+- [ ] `robots.txt` neblokuoja: GPTBot, ClaudeBot, PerplexityBot
+- [ ] Puslapis greitai įkraunamas (AI crawleriai neturi daug laiko)
+- [ ] Turinys matomas be JavaScript (statinis HTML)
+
+**4. llms.txt (naujas standartas):**
+- [ ] Ar yra `/llms.txt` failas svetainėje?
+  - Formatas: `# Įmonės pavadinimas\n> Trumpas aprašymas\n\n## Puslapiai\n- [pavadinimas](url): aprašymas`
+  - Padeda AI sistemoms suprasti svetainę
+
+**5. Brando žinomumas AI duomenų bazėse:**
+- [ ] Ar įmonė minima Vikipedijoje / Wikidata?
+- [ ] Ar yra Google Knowledge Panel?
+- [ ] Ar yra straipsnių / recenzijų kituose šaltiniuose?
+
+### Lietuviška AI SEO specifika
+
+**Google AI Overviews lietuvių kalba:**
+- AI Overviews vis dar ribotas lietuviškiems paieškoms - bet auga
+- Lokalūs paieškos terminai ("servisas Vilniuje") dažniau rodo tradicinį SERP
+- Ilgos uodegos klausimų formos ("kaip patikrinti") - AI Overviews auga
+
+**Perplexity / ChatGPT:**
+- Naudoja anglų kalbos šaltinius dažniau
+- Lietuviški šaltiniai cituojami jei yra unikalios informacijos
+- **Rekomendacija:** turėk bent vieną puslapį anglų kalba su pagrindiniais faktais apie įmonę
+
+**Bing Copilot:**
+- Stipriau veikia Lietuvoje nei Google AI Overviews
+- NAP duomenys iš Bing Maps svarbu
+- Schema markup labai svarbu
+
+### Praktiniai AI SEO žingsniai (prioritetai)
+
+```
+AUKŠTAS PRIORITETAS:
+1. Pašalink AI stiliaus tekstą - jis mažina citabilumą
+2. Pridėk FAQ sekciją su konkrečiais atsakymais
+3. Tikrink robots.txt - neblokuok GPTBot/ClaudeBot/PerplexityBot
+4. Pridėk konkrečius faktus: metai, kainos, laikas
+
+VIDUTINIS PRIORITETAS:
+5. Sukurk /llms.txt failą
+6. Struktūrizuok H2/H3 kaip klausimus
+7. Pridėk Organization/LocalBusiness schema
+
+ILGALAIKIS:
+8. Kurk turinį kuris atsako į nišinius klausimus
+9. Gaukite paminėjimų kituose šaltiniuose (ne tik backlinks)
+```
+
+---
+
+## 8 žingsnis - SXO (kodėl nerankinuoja)
+
+Naudok `seo-sxo` skillio metodologiją kai puslapis techniškai tvarkingas bet nerankinuoja.
+
+Klausimas: **Ar puslapio tipas atitinka ką Google rodo šiam raktažodžiui?**
+
+- Jei Google rodo produktų puslapius, o tavo puslapis yra blog'o straipsnis - nerankinuosi
+- Jei Google rodo "Kaip?" straipsnius, o tavo puslapis yra pardavimų puslapis - nerankinuosi
+- Sprendimas: pažiūrėk ką Google rodo TOP 5 rezultatuose - ir sukurk TOKĮ patį puslapio tipą
+
+---
+
+## 10 žingsnis - ataskaita
 
 ### Suvestinė
 
@@ -253,17 +351,30 @@ Vietinė schema:   ✅ / ❌
 ━━━ ✍️  COPY KOKYBĖ ━━━
 AI stiliaus klaidos: [N] rastos
 Gramatikos klaidos:  [N] rastos
+
+━━━ 🤖 AI SEO / GEO BŪKLĖ ━━━
+robots.txt blokuoja AI crawlerius:  ✅ Ne / ❌ Taip
+llms.txt egzistuoja:                ✅ / ❌ Nerasta
+Citabilūs faktai tekste:            ✅ / ⚠️ Mažai / ❌ Nėra
+FAQ sekcija:                        ✅ / ❌
+Statinis HTML (ne tik JS):          ✅ / ⚠️
+AI SEO prioritetas:                 🔴 Kritinis / 🟡 Vidutinis / 🟢 Gerai
 ```
 
 ### Veiksmų planas
 
 ```
-PRIORITETAI:
-
-1. (Šiandien)   Ištaisyti /paslaugos title tag - per ilgas, blokuoja CTR
+PRIORITETAI (tradicinis SEO):
+1. (Šiandien)    Ištaisyti /paslaugos title tag - per ilgas, blokuoja CTR
 2. (Šią savaitę) Pridėti LocalBusiness schema - kritinė vietiniam SEO
-3. (Šį mėnesį)  Perrašyti 3 puslapių meta descriptions - per trumpos, be CTA
-4. (Vėliau)     Pataisyti 5 AI stiliaus klaidas copy
+3. (Šį mėnesį)   Perrašyti meta descriptions - per trumpos, be CTA
+
+AI SEO PRIORITETAI:
+4. (Šiandien)    Patikrinti robots.txt - ar neblokuoja GPTBot/ClaudeBot
+5. (Šią savaitę) Pašalinti AI stiliaus tekstą - mažina citabilumą
+6. (Šią savaitę) Pridėti FAQ sekciją su konkrečiais klausimais/atsakymais
+7. (Šį mėnesį)   Sukurti /llms.txt failą
+8. (Ilgalaikis)  Gauti paminėjimų kituose šaltiniuose
 ```
 
 ---
