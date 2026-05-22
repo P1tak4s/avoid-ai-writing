@@ -1,63 +1,89 @@
 # avoid-ai-writing
 
-A [Claude Code](https://claude.ai/code) skill that audits and rewrites prose in **English and Lithuanian** to remove AI writing patterns ("AI-isms").
+Lithuanian and English writing quality toolkit for Claude Code. Removes AI patterns, writes human copy, audits entire codebases, generates SEO metadata, schema markup, llms.txt, and competitor analysis.
 
-## What it does
+**11 commands** for Lithuanian web projects.
 
-- Detects 21 pattern categories that make text sound machine-generated
-- Applies a 43-entry word/phrase replacement table (e.g. *leverage → use*, *robust → reliable*)
-- Fixes Lithuanian-specific issues: English calques, noun string compounds, passive overuse, loan words
-- Returns: issues found → rewritten text → what changed → second-pass audit
-
-## Core principle
-
-> Human writing is **simple, short, and specific**. AI writing is vague, inflated, and formulaic.
+---
 
 ## Install
 
-Download `avoid-ai-writing.zip` from [Releases](../../releases) and install it in Claude Code, or clone this repo and point Claude Code at the folder.
-
-After installing the skill, copy the commands to your Claude Code commands folder:
-
 ```bash
-cp avoid-ai-writing/commands/* ~/.claude/commands/
+git clone https://github.com/P1tak4s/avoid-ai-writing \
+  ~/.claude/skills/avoid-ai-writing
+
+cp ~/.claude/skills/avoid-ai-writing/commands/*.md ~/.claude/commands/
 ```
+
+---
 
 ## Commands
 
+### Writing
+
 | Command | What it does |
 |---|---|
-| `/fix-ai-slop` | Audits and rewrites any text (LT or EN) |
-| `/rašyk-lt` | Writes Lithuanian copy from scratch - polite, no AI patterns |
-| `/rašyk-en` | Writes English copy from scratch - no AI patterns |
-| `/scan-website` | Scans entire project, shows all AI text issues, fixes with approval |
+| `/rašyk-lt` | Write Lithuanian copy with `Jūs` form, no AI patterns |
+| `/rašyk-en` | Write English copy without AI patterns |
+| `/rašyk-puslapį [puslapis]` | Full page with SEO: title, meta, H1/H2, CTA |
+| `/rašyk-emailą [tipas]` | Lithuanian email (transactional or marketing) |
 
-## Usage
+### Auditing & Fixing
 
-Trigger phrases (English or Lithuanian):
-- "remove AI-isms from this"
-- "make this sound less like AI"
-- "clean up AI writing"
-- "nerašyti kaip AI"
-- "pašalinti AI stilių"
+| Command | What it does |
+|---|---|
+| `/fix-ai-slop` | Audit and rewrite a text snippet (EN or LT) |
+| `/polish-lt` | Scan entire project, show preview, fix all text |
+| `/scan-website` | Scan frontend files with approval flow |
 
-## Files
+### SEO
+
+| Command | What it does |
+|---|---|
+| `/seo-lt [url]` | Full SEO + AI SEO audit (plan first, then execute) |
+| `/schema-lt [url]` | Generate JSON-LD schema.org markup |
+| `/llms-txt [url]` | Create `/llms.txt` for AI search crawlers |
+| `/konkurentai-lt [urls]` | Competitor copy and SEO analysis |
+
+---
+
+## Quick start
 
 ```
-avoid-ai-writing/
-├── SKILL.md                          # Skill definition + 6-step process
-└── references/
-    ├── english-patterns.md           # 43-entry table + 15 structural categories
-    └── lithuanian-patterns.md        # Lithuanian word replacements + grammar fixes
+/rašyk-puslapį automobilių servisas Vilniuje, pagrindinis puslapis
+
+/seo-lt https://revmotors.lt
+
+/polish-lt
+
+/schema-lt https://revmotors.lt
+
+/konkurentai-lt https://revmotors.lt vs https://competitor.lt
 ```
 
-## English patterns covered
+---
 
-Word replacements, template openings, hollow intensifiers, hedging chains, rule of three, negative parallelism, copula avoidance, significance inflation, superficial -ing endings, vague attributions, formulaic challenges sections, generic conclusions, chatbot artifacts, em dash overuse, mechanical bold/bullets.
+## Core principle
 
-## Lithuanian patterns covered
+> Human writing is **simple, short, and specific**.
+> AI writing is vague, inflated, and formulaic.
 
-Word replacements, English calques (*naviguojame per* etc.), noun string compounds, over-nominalization, passive voice overuse, loan word inflation (*kontentas → turinys*, *implementuoti → įgyvendinti*), AI transition words (*Be to, Tuo tarpu, Apibendrinant*).
+Removes: template openings, hollow intensifiers, three-adjective lists, AI transitions, Lithuanian calques, grammar errors (Registruojies→Registruokitės), long em dashes.
+
+---
+
+## DataForSEO (optional)
+
+Adds live keyword volumes, rankings, and competitor data.
+
+```bash
+npm install -g dataforseo-mcp-server
+python3 ~/.claude/skills/avoid-ai-writing/scripts/setup-dataforseo.py EMAIL PASSWORD
+```
+
+Cost: ~$5-20/month. Free $1 credit on signup at app.dataforseo.com.
+
+---
 
 ## License
 

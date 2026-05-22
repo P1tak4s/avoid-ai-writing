@@ -1,4 +1,4 @@
-Išpolirink visą projekto lietuvišką (ir anglišką) tekstą. Tikrina frontend, backend, dashboard, el. pašto šablonus, i18n failus - viską.
+Išpolirink visą projekto lietuvišką (ir anglišką) tekstą. VISADA pirmiausia parodyk preview (3-5 pavyzdžius) ir lauk patvirtinimo PRIEŠ taisydamas visą projektą.
 
 ## Naudok šias references
 Prieš pradėdamas perskaityk:
@@ -7,6 +7,48 @@ Prieš pradėdamas perskaityk:
 - `references/linkeviciene-editing.md`
 - `references/vlkk-skyryba-rules.md`
 - `references/english-patterns.md` (angliškam tekstui)
+
+---
+
+## 0 žingsnis - GREITAS PREVIEW (prieš viską)
+
+**Prieš taisydamas bet ką** - perskaityk 2-3 failus ir parodyk preview:
+
+```
+══════════════════════════════════════════════
+👁️  POLISH-LT PREVIEW: [projektas]
+══════════════════════════════════════════════
+
+Nuskaičiau: [N] failų
+Radau problemų: ~[M] (greitas įvertinimas)
+
+PAVYZDŽIAI (pirmosios rastos problemos):
+
+1. src/components/Hero.tsx
+   DABAR:   "Profesionalūs, greiti ir patikimi automobilių servisai"
+   SIŪLAU:  "Remontuojame per dieną"
+   KODĖL:   Trijų būdvardžių sąrašas + AI šablonas
+
+2. src/app/page.tsx
+   DABAR:   "Mūsų komanda yra įsipareigojusi..."
+   SIŪLAU:  "Dirbame nuo 2010 m."
+   KODĖL:   Tuštas teiginys, nėra fakto
+
+3. messages/lt.json
+   DABAR:   "Registruojies"
+   SIŪLAU:  "Registruokitės"
+   KODĖL:   Gramatinė klaida - sangrąžinio veiksmažodžio forma
+
+══════════════════════════════════════════════
+Ar toks stilius tinkamas? Tęsti?
+  [taip] - taisyti viską tokiu stiliumi
+  [švelniau] - taisyti tik kritines klaidas
+  [rodyti daugiau] - parodyk 10 pavyzdžių prieš sprendžiant
+  [atšaukti] - sustabdyk
+══════════════════════════════════════════════
+```
+
+**LAUK ATSAKYMO.** Tik po patvirtinimo eik prie 1 žingsnio.
 
 ---
 
