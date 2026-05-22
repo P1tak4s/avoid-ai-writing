@@ -57,14 +57,26 @@ Geras lietuviškas svetainės tekstas skamba kaip žmogus kalbantis su klientu �
 
 ## Lietuviško svetainės teksto tonas
 
-### B2C (paslaugos žmonėms)
-- Kreipiamasi „tu" (ne „Jūs" nebent labai formalus kontekstas)
+### Tono skalė — pasirink tinkamą
+
+**Per draugiškas (vengtinas svetainėse):**
+> „Ei, žinai ką? Registruokis ir gausim tau darbo!"
+
+**Tinkamas — pagarbus ir šiltas (Jūs forma):**
+> „Registruokitės vieną kartą. Klientai ras Jus patys — Jūs tik dirbkite."
+
+**Per oficialus / šaltas (vengtinas):**
+> „Mūsų platforma suteikia galimybę efektyviai administruoti veiklą."
+
+### B2C svetainėse naudoti „Jūs" formą
+- Pagarbu, bet ne distancinga
+- Tonas kaip geras pardavėjas: aiškus, suinteresuotas, mandagus
 - Trumpi sakiniai — 1-2 mintys maksimum
-- Konkretus naudas, ne abstrakčios vertybės
+- Konkretūs faktai, ne abstrakčios vertybės
 - Aktyvus veiksmažodis centre
 
 **Blogai:** „Mūsų platforma suteikia galimybę efektyviai valdyti savo verslą ir optimizuoti procesus."
-**Gerai:** „Vieta kur matai visus užsakymus, klientus ir pinigus. Viskas po vienu stogu."
+**Gerai:** „Vieta kur matote visus užsakymus, klientus ir pinigus. Viskas po vienu stogu."
 
 ### B2B (paslaugos verslo klientams)
 - Galima „jūs" bet nebūtina
