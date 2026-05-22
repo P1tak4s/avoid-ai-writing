@@ -1,4 +1,4 @@
-# Lithuanian AI Writing Patterns — Reference
+# Lithuanian AI Writing Patterns - Reference
 
 Lithuanian AI text has the same structural problems as English AI text, but also has language-specific tells from mistranslated patterns and unnatural calques from English.
 
@@ -125,7 +125,7 @@ AI prefers English loan words over native Lithuanian equivalents:
 
 ## Formatting Patterns to Avoid (same as English)
 
-- Brūkšnys (—) vietoj kablelio arba atskirų sakinių
+- Brūkšnys (-) vietoj kablelio arba atskirų sakinių
 - Kiekvieno žodžio sudrąsinimas (bold)
 - Emojai kaip skyrių antraštės: ✅ Kas veikia / ❌ Kas neveikia
 - Visų žodžių rašymas didžiosiomis antraštėse: "Šiuolaikiniai Iššūkiai Ir Galimybės"

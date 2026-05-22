@@ -1,4 +1,4 @@
-# English AI Writing Patterns — Reference
+# English AI Writing Patterns - Reference
 
 ## Word Replacement Table (43 entries)
 
@@ -59,8 +59,8 @@
 - "It goes without saying that..."
 
 ### Hollow intensifiers
-- "truly", "really", "very", "quite", "rather" — cut them
-- "absolutely", "certainly", "undoubtedly" — cut them
+- "truly", "really", "very", "quite", "rather" - cut them
+- "absolutely", "certainly", "undoubtedly" - cut them
 
 ### Hedging chains
 - "it could be argued that"
@@ -128,7 +128,7 @@ Fix: name the source or cut the claim.
 
 ## Formatting Patterns to Avoid
 
-- **Em dash overuse** — using — instead of commas or just restructuring
+- **Em dash overuse** - using - instead of commas or just restructuring
 - **Excessive bold**: bolding every noun or key term mechanically
 - **Bullet-heavy sections**: converting prose into bullets when the ideas connect
 - **Emoji as section headers**: ✅ What works / ❌ What doesn't

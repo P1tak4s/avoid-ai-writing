@@ -28,8 +28,8 @@ cp avoid-ai-writing/commands/* ~/.claude/commands/
 | Command | What it does |
 |---|---|
 | `/fix-ai-slop` | Audits and rewrites any text (LT or EN) |
-| `/rašyk-lt` | Writes Lithuanian copy from scratch — polite, no AI patterns |
-| `/rašyk-en` | Writes English copy from scratch — no AI patterns |
+| `/rašyk-lt` | Writes Lithuanian copy from scratch - polite, no AI patterns |
+| `/rašyk-en` | Writes English copy from scratch - no AI patterns |
 | `/scan-website` | Scans entire project, shows all AI text issues, fixes with approval |
 
 ## Usage

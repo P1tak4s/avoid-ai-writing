@@ -1,12 +1,12 @@
-# Lietuviško rašymo kokybė — ritmas, idiomų ir gyvo teksto gidas
+# Lietuviško rašymo kokybė - ritmas, idiomų ir gyvo teksto gidas
 
 ## Kas skiria gerą lietuvišką tekstą nuo blogo
 
 Geras lietuviškas tekstas:
 - Skamba kaip žmogus galvoja, ne kaip verčia iš anglų
-- Turi savo ritmą — trumpi ir ilgesni sakiniai kaitaliojasi
+- Turi savo ritmą - trumpi ir ilgesni sakiniai kaitaliojasi
 - Naudoja konkrečius daiktavardžius ir veiksmažodžius, ne abstrakčius
-- Leidžia sau būti netobulam — kartais pradeda sakinį „O", „Bet", „Nes"
+- Leidžia sau būti netobulam - kartais pradeda sakinį „O", „Bet", „Nes"
 
 ---
 
@@ -16,9 +16,9 @@ Geras lietuviškas tekstas:
 > Mūsų servisas teikia profesionalias paslaugas. Dirbame greitai ir kokybiškai. Klientai lieka patenkinti. Kreipkitės į mus.
 
 **Gyvas (žmogiškas):**
-> Remontuojame greitai. Bet svarbiausia — tiksliai. Žinote gedimą, žinote kainą, žinote kada pasiimsite automobilį. Jokie staigmenai.
+> Remontuojame greitai. Bet svarbiausia - tiksliai. Žinote gedimą, žinote kainą, žinote kada pasiimsite automobilį. Jokie staigmenai.
 
-**Taisyklė:** po dviejų trumpų sakinių — vienas ilgesnis. Po ilgo — trumpas. Kaitaliokite.
+**Taisyklė:** po dviejų trumpų sakinių - vienas ilgesnis. Po ilgo - trumpas. Kaitaliokite.
 
 ---
 
@@ -26,7 +26,7 @@ Geras lietuviškas tekstas:
 
 | Angliška kalka | Natūralus lietuviškas |
 |---|---|
-| Be to, | O dar — / Taip pat — / Ir dar vienas dalykas: |
+| Be to, | O dar - / Taip pat - / Ir dar vienas dalykas: |
 | Tuo tarpu | O šiuo metu / Tuo pat metu |
 | Vis dėlto | Bet vis tiek / Nors ir taip |
 | Iš esmės | Iš tikrųjų / Paprastai tariant |
@@ -36,7 +36,7 @@ Geras lietuviškas tekstas:
 
 ---
 
-## Konkretūs veiksmažodžiai — gyvesni už abstrakčius
+## Konkretūs veiksmažodžiai - gyvesni už abstrakčius
 
 | Abstraktus | Konkretus |
 |---|---|
@@ -54,26 +54,26 @@ Geras lietuviškas tekstas:
 **Greitis / paprastumas:**
 - „Greičiau nei manai"
 - „Kol jūs perkate maisto, mes tvarkome jūsų automobilį"
-- „Vienas skambutis — ir viskas sutvarkyta"
+- „Vienas skambutis - ir viskas sutvarkyta"
 - „Nuo A iki Z"
 - „Nuo pirmo skambučio iki raktelių atgavimo"
 
 **Kokybė / patikimumas:**
 - „Dirba kaip laikrodis"
-- „Žodis — žodis"
-- „Kaip sakoma — padaryta"
+- „Žodis - žodis"
+- „Kaip sakoma - padaryta"
 - „Sutvarkome taip, kad galvotumėte tik apie kelią, ne apie variklį"
 
 **Kaina / skaidrumas:**
 - „Žinote kainą iš anksto"
 - „Jokie staigmenai sąskaitoje"
-- „Kaina — tokia kaip sakėme"
+- „Kaina - tokia kaip sakėme"
 - „Be paslėptų mokesčių"
 
 **Patirtis:**
-- „Dirbame nuo [metai] — kai dar nebuvo..."
+- „Dirbame nuo [metai] - kai dar nebuvo..."
 - „Per [N] metus matėme viską"
-- „[N] metų — tai ne skaičius. Tai kiekvienas sugrąžintas automobilis."
+- „[N] metų - tai ne skaičius. Tai kiekvienas sugrąžintas automobilis."
 
 ---
 
@@ -91,11 +91,11 @@ Geras lietuviškas tekstas:
 
 ---
 
-## Antraščių tonas — skirtingiems verslo tipams
+## Antraščių tonas - skirtingiems verslo tipams
 
 ### Automobilių servisas
-- „Automobilis sutvarkytas. Jūs — kelyje."
-- „Remontas per dieną — garantuojame."
+- „Automobilis sutvarkytas. Jūs - kelyje."
+- „Remontas per dieną - garantuojame."
 - „Diagnostika parodys viską."
 
 ### IT / SaaS
@@ -104,19 +104,19 @@ Geras lietuviškas tekstas:
 - „Veikia iš karto."
 
 ### Advokatų kontora / konsultacijos
-- „Jūsų teisės — mūsų atsakomybė."
+- „Jūsų teisės - mūsų atsakomybė."
 - „Aiškūs atsakymai. Konkrečios rekomendacijos."
-- „Patariame, kaip apsisaugoti — ne tik kaip spręsti problemas."
+- „Patariame, kaip apsisaugoti - ne tik kaip spręsti problemas."
 
 ### Mažmeninė prekyba / parduotuvė
 - „Raskite tai, ko ieškote."
-- „Pristatymas per dieną — visoje Lietuvoje."
+- „Pristatymas per dieną - visoje Lietuvoje."
 - „Grąžinti paprasta: 30 dienų, jokių klausimų."
 
 ### Restoranai / kavinės
-- „Pagaminta iš šviežių produktų — kiekvieną dieną."
-- „Žaliavos — iš vietinių ūkių."
-- „Užsisakykite stalą — arba tiesiog užeikite."
+- „Pagaminta iš šviežių produktų - kiekvieną dieną."
+- „Žaliavos - iš vietinių ūkių."
+- „Užsisakykite stalą - arba tiesiog užeikite."
 
 ---
 
@@ -150,11 +150,11 @@ Geras lietuviškas tekstas:
 
 ## Stilistinis patikrinimas prieš publikuojant
 
-Perskaičius tekstą — patikrinkite:
+Perskaičius tekstą - patikrinkite:
 
-1. **Ritmas** — ar sakiniai ilgi ir trumpi kaitaliojasi?
-2. **Pirmasis sakinys** — ar įdomus? Ar verčia skaityti toliau?
-3. **CTA** — ar aiškus, konkretus, liepiamoji nuosaka?
-4. **Skaičiai** — ar yra bent vienas konkretus faktas (metai, kaina, kiekis)?
-5. **Paskutinis sakinys** — ar baigia mintį ar tiesiog nutrūksta?
-6. **Garsiai** — perskaityk garsiai. Jei kur sustoji arba pasiklysti — perrašyk.
+1. **Ritmas** - ar sakiniai ilgi ir trumpi kaitaliojasi?
+2. **Pirmasis sakinys** - ar įdomus? Ar verčia skaityti toliau?
+3. **CTA** - ar aiškus, konkretus, liepiamoji nuosaka?
+4. **Skaičiai** - ar yra bent vienas konkretus faktas (metai, kaina, kiekis)?
+5. **Paskutinis sakinys** - ar baigia mintį ar tiesiog nutrūksta?
+6. **Garsiai** - perskaityk garsiai. Jei kur sustoji arba pasiklysti - perrašyk.

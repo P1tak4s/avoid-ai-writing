@@ -1,20 +1,20 @@
 Sukurk profesionalų svetainės puslapio turinį lietuvių kalba. Naudok avoid-ai-writing skillio visus references failus.
 
-## Prieš rašant — nustatyk
+## Prieš rašant - nustatyk
 
 Iš $ARGUMENTS išsitrauk:
-1. **Puslapio tipas** — Hero / Paslaugos / Apie mus / Landing page / Kainodara / Kontaktai / FAQ / Blogas
-2. **Verslas / paslauga** — kas tai yra
-3. **Tikslinė auditorija** — kam skirta
-4. **Miestas / regionas** — jei taikoma
-5. **Tonas** — jei nenurodytas, naudok pagarbų „Jūs" formą
+1. **Puslapio tipas** - Hero / Paslaugos / Apie mus / Landing page / Kainodara / Kontaktai / FAQ / Blogas
+2. **Verslas / paslauga** - kas tai yra
+3. **Tikslinė auditorija** - kam skirta
+4. **Miestas / regionas** - jei taikoma
+5. **Tonas** - jei nenurodytas, naudok pagarbų „Jūs" formą
 
 ## Ką daryti
 
-1. Perskaityk `references/page-templates.md` — rask šabloną pagal puslapio tipą
-2. Perskaityk `references/lithuanian-web-copy.md` — tonas ir stilius
-3. Perskaityk `references/seo-copy.md` — pasiūlyk Title tag ir meta aprašymą
-4. Perskaityk `references/vlkk-grammar-rules.md` — gramatika
+1. Perskaityk `references/page-templates.md` - rask šabloną pagal puslapio tipą
+2. Perskaityk `references/lithuanian-web-copy.md` - tonas ir stilius
+3. Perskaityk `references/seo-copy.md` - pasiūlyk Title tag ir meta aprašymą
+4. Perskaityk `references/vlkk-grammar-rules.md` - gramatika
 
 ## Ką pateikti
 
@@ -27,11 +27,11 @@ URL pasiūlymas: /[slug]
 
 ### Turinys
 Pilnas puslapio turinys pagal šabloną su žymėjimu:
-- `# H1` — pagrindinis antraštė
-- `## H2` — skyrių antraštės
-- `### H3` — poskirsniai
-- `[CTA: tekstas]` — mygtukų tekstai
-- `[ALT: aprašymas]` — nuotraukų alt tekstai
+- `# H1` - pagrindinis antraštė
+- `## H2` - skyrių antraštės
+- `### H3` - poskirsniai
+- `[CTA: tekstas]` - mygtukų tekstai
+- `[ALT: aprašymas]` - nuotraukų alt tekstai
 
 ### Patikrinimas
 Po rašymo patikrink:
@@ -41,7 +41,7 @@ Po rašymo patikrink:
 - [ ] Meta ≤ 160 simbolių
 - [ ] Nėra Title Case antraštėse
 - [ ] Teisingos kabutės „..."
-- [ ] Teisingas brūkšnys – (ne —)
+- [ ] Teisingas brūkšnys – (ne -)
 
 ## Pavyzdys
 
@@ -56,7 +56,7 @@ URL: /
 # Automobilis sutvarkytas per dieną.
 
 Greitas ir patikimas automobilių servisas Vilniuje nuo 2010 m.
-Žinote kainą iš anksto — jokie staigmenys.
+Žinote kainą iš anksto - jokie staigmenys.
 
 [CTA: Registruotis]  [CTA: Skambinti]
 

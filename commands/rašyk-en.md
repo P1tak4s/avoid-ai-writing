@@ -1,4 +1,4 @@
-Write the following in English. Use the avoid-ai-writing skill — apply all English pattern rules from the start, do not fix after.
+Write the following in English. Use the avoid-ai-writing skill - apply all English pattern rules from the start, do not fix after.
 
 Rules to follow while writing:
 - Short sentences. Active voice. Plain words.

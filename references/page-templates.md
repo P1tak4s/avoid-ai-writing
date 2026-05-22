@@ -1,7 +1,7 @@
 # Svetainės puslapių struktūros šablonai
 
 ## Bendras principas
-Kiekvienas puslapis turi vieną tikslą. Prieš rašant — nustatyk tikslą:
+Kiekvienas puslapis turi vieną tikslą. Prieš rašant - nustatyk tikslą:
 - Parduoti? → Landing page
 - Pristatyti verslą? → Apie mus
 - Parodyti paslaugas? → Paslaugų puslapis
@@ -13,9 +13,9 @@ Kiekvienas puslapis turi vieną tikslą. Prieš rašant — nustatyk tikslą:
 
 **Struktūra:**
 ```
-[Antraštė — vienas konkretus teiginys]
-[Paantraštė — 2-3 sakiniai: kas, kam, kodėl verta]
-[CTA mygtukas — veiksmažodis liepiamąja]
+[Antraštė - vienas konkretus teiginys]
+[Paantraštė - 2-3 sakiniai: kas, kam, kodėl verta]
+[CTA mygtukas - veiksmažodis liepiamąja]
 ```
 
 **Antraštės formulė:**
@@ -23,7 +23,7 @@ Geriausia kai antraštė = rezultatas arba pažadas.
 - Ne: „Profesionalios automobilių remonto paslaugos"
 - Taip: „Automobilis sutvarkytas per dieną."
 - Ne: „Išsami apskaitos sistema verslui"
-- Taip: „Sąskaitos, mokėjimai, ataskaitos — vienoje vietoje."
+- Taip: „Sąskaitos, mokėjimai, ataskaitos - vienoje vietoje."
 
 **Paantraštė:**
 - 2-3 sakiniai maksimum
@@ -47,21 +47,21 @@ Geriausia kai antraštė = rezultatas arba pažadas.
 
 **Struktūra:**
 ```
-[Hero — puslapio pavadinimas + 1 sakinys kas tai]
-[Paslaugų sąrašas — kortelės arba sekcijos]
+[Hero - puslapio pavadinimas + 1 sakinys kas tai]
+[Paslaugų sąrašas - kortelės arba sekcijos]
   Kiekvienai paslaugai:
   - Pavadinimas (trumpas)
   - Aprašymas (2-3 sakiniai)
   - Kaina arba "Nuo X €" (jei galima)
-[Procesas — kaip tai veikia 3-4 žingsniai]
-[CTA — susisiekti arba užsisakyti]
+[Procesas - kaip tai veikia 3-4 žingsniai]
+[CTA - susisiekti arba užsisakyti]
 ```
 
 **Paslaugos aprašymo šablonas:**
 ```
-[Kas tai per paslauga — 1 sakinys]
-[Ką Jūs gaunate — 2-3 konkretūs dalykai]
-[Kaina arba trukmė — jei žinoma]
+[Kas tai per paslauga - 1 sakinys]
+[Ką Jūs gaunate - 2-3 konkretūs dalykai]
+[Kaina arba trukmė - jei žinoma]
 ```
 
 Pavyzdys:
@@ -76,25 +76,25 @@ Pavyzdys:
 
 **Struktūra:**
 ```
-[Vienas sakinys — kas esate ir ką darote]
-[Istorija — trumpai: kada įkurta, kodėl, kas pasikeitė]
-[Skaičiai — metai, klientai, darbai ar kiti faktai]
-[Komanda — vardai, pavardės, pareigos, nuotrauka]
-[Vertybės — 3-4 konkrečios, ne abstrakčios]
+[Vienas sakinys - kas esate ir ką darote]
+[Istorija - trumpai: kada įkurta, kodėl, kas pasikeitė]
+[Skaičiai - metai, klientai, darbai ar kiti faktai]
+[Komanda - vardai, pavardės, pareigos, nuotrauka]
+[Vertybės - 3-4 konkrečios, ne abstrakčios]
 [CTA]
 ```
 
-**Istorija — kaip rašyti:**
+**Istorija - kaip rašyti:**
 - Ne: „Mūsų įmonė buvo įkurta 2010 metais siekiant teikti aukščiausios kokybės paslaugas..."
 - Taip: „Pradėjome 2010-aisiais iš vienos dirbtuvės. Dabar turime 3 filialus ir 15 darbuotojų."
 
-**Skaičiai — konkretūs:**
+**Skaičiai - konkretūs:**
 - Ne: „Daug metų patirties"
 - Taip: „14 metų rinkoje"
 - Ne: „Tūkstančiai patenkintų klientų"
 - Taip: „4 200+ aptarnauti klientai"
 
-**Vertybės — su paaiškinimu:**
+**Vertybės - su paaiškinimu:**
 - Ne: „Kokybė" (tuščia)
 - Taip: „Kokybė: kiekvieną darbą patikriname du kartus prieš grąžindami automobilį."
 
@@ -104,13 +104,13 @@ Pavyzdys:
 
 **Struktūra:**
 ```
-[Hero — antraštė + paantraštė + CTA]
-[Problema — ko klientas nori išvengti]
-[Sprendimas — kaip jūsų paslauga sprendžia]
-[Kaip veikia — 3 žingsniai]
-[Nauda — bullet punktai]
-[Socialinis įrodymas — atsiliepimas arba skaičiai]
-[Dažni klausimai — 3-5 FAQ]
+[Hero - antraštė + paantraštė + CTA]
+[Problema - ko klientas nori išvengti]
+[Sprendimas - kaip jūsų paslauga sprendžia]
+[Kaip veikia - 3 žingsniai]
+[Nauda - bullet punktai]
+[Socialinis įrodymas - atsiliepimas arba skaičiai]
+[Dažni klausimai - 3-5 FAQ]
 [Galutinis CTA]
 ```
 
@@ -120,17 +120,17 @@ Pradėk nuo to, ką klientas jaučia, ne nuo to, ką tu siūlai.
 - „Sąskaitos ir popieriai kaupiasi stalčiuose?"
 - „Nauji klientai neranda jūsų internete?"
 
-**Kaip veikia — 3 žingsniai:**
+**Kaip veikia - 3 žingsniai:**
 Labai paprasta struktūra. Kiekvienas žingsnis = 1 sakinys.
 ```
-1. [Veiksmažodis] — [kas nutinka]
-2. [Veiksmažodis] — [kas nutinka]
-3. [Veiksmažodis] — [rezultatas]
+1. [Veiksmažodis] - [kas nutinka]
+2. [Veiksmažodis] - [kas nutinka]
+3. [Veiksmažodis] - [rezultatas]
 ```
 Pavyzdys:
-> 1. Skambinate — susitariame dėl laiko
-> 2. Atveždamas — diagnozuojame per valandą
-> 3. Patvirtinate — taisome ir grąžiname tą pačią dieną
+> 1. Skambinate - susitariame dėl laiko
+> 2. Atveždamas - diagnozuojame per valandą
+> 3. Patvirtinate - taisome ir grąžiname tą pačią dieną
 
 ---
 
@@ -138,24 +138,24 @@ Pavyzdys:
 
 **Struktūra:**
 ```
-[Antraštė — paprasta ir aiški]
-[Planų kortelės — 2-3 variantai]
-[FAQ apie kainas — 3-5 klausimai]
+[Antraštė - paprasta ir aiški]
+[Planų kortelės - 2-3 variantai]
+[FAQ apie kainas - 3-5 klausimai]
 [Garantija arba grąžinimo politika]
 [CTA]
 ```
 
 **Plano kortelės šablonas:**
 ```
-[Pavadinimo — paprastas: Pradinis / Standartinis / Verslo]
-[Kaina — aiškiai: X € / mėn. arba nuo X €]
-[Kas įeina — bullet sąrašas 4-6 punktai]
+[Pavadinimo - paprastas: Pradinis / Standartinis / Verslo]
+[Kaina - aiškiai: X € / mėn. arba nuo X €]
+[Kas įeina - bullet sąrašas 4-6 punktai]
 [CTA mygtukas]
 ```
 
 **Kainų rašymas:**
 - Naudokite konkrečius skaičius: `49 €/mėn.` ne `nuo keliasdešimt eurų`
-- Jei negalite rodyti kainos: `Kaina — pagal projektą. Susisiekite dėl pasiūlymo.`
+- Jei negalite rodyti kainos: `Kaina - pagal projektą. Susisiekite dėl pasiūlymo.`
 - Psichologinis kainų rašymas: `49 €` veikia geriau nei `50 €`
 
 ---
@@ -164,16 +164,16 @@ Pavyzdys:
 
 **Struktūra:**
 ```
-[Antraštė — ne "Kontaktai", o konkretus kvietimas]
-[Trumpas tekstas — kodėl verta susisiekti, kiek laiko atsakysite]
+[Antraštė - ne "Kontaktai", o konkretus kvietimas]
+[Trumpas tekstas - kodėl verta susisiekti, kiek laiko atsakysite]
 [Kontaktinė forma arba tiesiogiai: tel., el. paštas]
-[Adresas ir darbo laikas — jei taikoma]
-[Žemėlapis — jei yra fizinė vieta]
+[Adresas ir darbo laikas - jei taikoma]
+[Žemėlapis - jei yra fizinė vieta]
 ```
 
-**Antraštė — konkretesnė:**
+**Antraštė - konkretesnė:**
 - Ne: „Kontaktai"
-- Taip: „Susisiekite — atsakysime per 2 val."
+- Taip: „Susisiekite - atsakysime per 2 val."
 - Taip: „Turite klausimų? Skambinkite."
 - Taip: „Registruokitės konsultacijai"
 
@@ -207,21 +207,21 @@ VII: nedirbame
 
 **Atsiliepimų šablonas:**
 ```
-[Citata — konkreti, ne bendra]
+[Citata - konkreti, ne bendra]
 [Vardas, Pavardė arba Vardas, miestas]
-[Pareigos arba kontekstas — jei B2B]
+[Pareigos arba kontekstas - jei B2B]
 ```
 
 **Geras atsiliepimas:**
-> „Atvedžiau automobilį ryto pusę — vakare jau važiavau namo. Diagnozavo greitai, kaina atitiko sąmatą."
-> — Tomas K., Vilnius
+> „Atvedžiau automobilį ryto pusę - vakare jau važiavau namo. Diagnozavo greitai, kaina atitiko sąmatą."
+> - Tomas K., Vilnius
 
 **Blogas atsiliepimas (per bendras):**
 > „Puikus servisas! Labai patenkinta. Rekomenduoju visiems."
-> — Laimutė
+> - Laimutė
 
 **Skaičiai kaip socialinis įrodymas:**
 - `4 200+ aptarnautų automobilių`
 - `98% klientų grįžta pakartotinai`
-- `Vidutinis laukimo laikas — 1,5 val.`
+- `Vidutinis laukimo laikas - 1,5 val.`
 - `Dirbame nuo 2010 m.`

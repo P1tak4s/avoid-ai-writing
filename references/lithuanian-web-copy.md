@@ -2,7 +2,7 @@
 
 ## Pagrindinis principas
 
-Geras lietuviškas svetainės tekstas skamba kaip žmogus kalbantis su klientu — tiesiogiai, paprastai, su šiek tiek šilumos. Ne kaip įmonės dokumentas, ne kaip išverstas angliškas tekstas.
+Geras lietuviškas svetainės tekstas skamba kaip žmogus kalbantis su klientu - tiesiogiai, paprastai, su šiek tiek šilumos. Ne kaip įmonės dokumentas, ne kaip išverstas angliškas tekstas.
 
 ---
 
@@ -26,9 +26,9 @@ Geras lietuviškas svetainės tekstas skamba kaip žmogus kalbantis su klientu �
 | užsiregistruojies | užsiregistruoji |
 
 ### Dažnos klaidos
-- „yra" nereikia ten kur galima apsieiti be jo: „Kaina yra 10€" → „Kaina — 10€" arba „Kainuoja 10€"
+- „yra" nereikia ten kur galima apsieiti be jo: „Kaina yra 10€" → „Kaina - 10€" arba „Kainuoja 10€"
 - „galima yra" → „galima"
-- „tai yra" kaip frazė — dažnai perteklinis
+- „tai yra" kaip frazė - dažnai perteklinis
 
 ---
 
@@ -57,13 +57,13 @@ Geras lietuviškas svetainės tekstas skamba kaip žmogus kalbantis su klientu �
 
 ## Lietuviško svetainės teksto tonas
 
-### Tono skalė — pasirink tinkamą
+### Tono skalė - pasirink tinkamą
 
 **Per draugiškas (vengtinas svetainėse):**
 > „Ei, žinai ką? Registruokis ir gausim tau darbo!"
 
-**Tinkamas — pagarbus ir šiltas (Jūs forma):**
-> „Registruokitės vieną kartą. Klientai ras Jus patys — Jūs tik dirbkite."
+**Tinkamas - pagarbus ir šiltas (Jūs forma):**
+> „Registruokitės vieną kartą. Klientai ras Jus patys - Jūs tik dirbkite."
 
 **Per oficialus / šaltas (vengtinas):**
 > „Mūsų platforma suteikia galimybę efektyviai administruoti veiklą."
@@ -71,7 +71,7 @@ Geras lietuviškas svetainės tekstas skamba kaip žmogus kalbantis su klientu �
 ### B2C svetainėse naudoti „Jūs" formą
 - Pagarbu, bet ne distancinga
 - Tonas kaip geras pardavėjas: aiškus, suinteresuotas, mandagus
-- Trumpi sakiniai — 1-2 mintys maksimum
+- Trumpi sakiniai - 1-2 mintys maksimum
 - Konkretūs faktai, ne abstrakčios vertybės
 - Aktyvus veiksmažodis centre
 
@@ -81,7 +81,7 @@ Geras lietuviškas svetainės tekstas skamba kaip žmogus kalbantis su klientu �
 ### B2B (paslaugos verslo klientams)
 - Galima „jūs" bet nebūtina
 - Konkrečiai: kiek, per kiek laiko, kokia nauda
-- Vengi tuštumos — kiekvienas sakinys turi nešti informaciją
+- Vengi tuštumos - kiekvienas sakinys turi nešti informaciją
 
 ---
 
@@ -90,12 +90,12 @@ Geras lietuviškas svetainės tekstas skamba kaip žmogus kalbantis su klientu �
 Lietuviškuose svetainės tekstuose bullet punktai **nekuria dirbtinės dramos per brūkšnius**.
 
 **Blogai (AI stilius):**
-- Darbų netrūksta — jų pats neieškosi
-- Apskaita vienoje vietoje — be galvos skausmo
-- Pinigai ateina laiku — ne po savaitės derybų
+- Darbų netrūksta - jų pats neieškosi
+- Apskaita vienoje vietoje - be galvos skausmo
+- Pinigai ateina laiku - ne po savaitės derybų
 
 **Gerai:**
-- Užsakymai ateina patys — tu tik dirbi
+- Užsakymai ateina patys - tu tik dirbi
 - Apskaita ir mokėjimai vienoje vietoje
 - Pinigai laiku, be derybų
 
@@ -118,7 +118,7 @@ Arba be brūkšnio visai:
 
 **Gerai:**
 > „Automobilių servisas Vilniuje.
-> Remontuojame per dieną — ne per savaitę."
+> Remontuojame per dieną - ne per savaitę."
 
 ---
 
@@ -149,7 +149,7 @@ Arba be brūkšnio visai:
 Pavyzdys:
 > Automobilių elektrika Kaune.
 > Diagnostika per valandą.
-> Dirbu savaitgaliais — be eilių.
+> Dirbu savaitgaliais - be eilių.
 > Skambink ir susitariam.
 
 ### SaaS / programa
@@ -168,14 +168,14 @@ Pavyzdys:
 
 ## Ką NIEKADA nerašyti lietuviškuose svetainės tekstuose
 
-- „Šiuolaikiniame sparčiai kintančiame pasaulyje..." — niekas taip nepradeda
-- „Mūsų komanda yra įsipareigojusi..." — tuščia frazė
-- „Teikiame aukščiausios kokybės paslaugas" — visi taip rašo, niekas netiki
-- „Susisiekite su mumis šiandien" — per standartinis
-- „Mes didžiuojamės..." — reklaminis, netikras
-- „Išsamus sprendimas" — abstraktu
-- „Inovatyvus požiūris" — nieką nereiškia
-- Trijų būdvardžių sąrašai: „greitas, patikimas, profesionalus" — kiekvienas taip rašo
+- „Šiuolaikiniame sparčiai kintančiame pasaulyje..." - niekas taip nepradeda
+- „Mūsų komanda yra įsipareigojusi..." - tuščia frazė
+- „Teikiame aukščiausios kokybės paslaugas" - visi taip rašo, niekas netiki
+- „Susisiekite su mumis šiandien" - per standartinis
+- „Mes didžiuojamės..." - reklaminis, netikras
+- „Išsamus sprendimas" - abstraktu
+- „Inovatyvus požiūris" - nieką nereiškia
+- Trijų būdvardžių sąrašai: „greitas, patikimas, profesionalus" - kiekvienas taip rašo
 
 ---
 
@@ -193,22 +193,22 @@ Pavyzdys:
 
 ---
 
-## Prieš ir po — realūs pavyzdžiai
+## Prieš ir po - realūs pavyzdžiai
 
 ### Pavyzdys 1: meistro platforma
 
 **Prieš (AI):**
-> Registruojies vieną kartą — ir darbai eina pas tave, ne tu pas juos. Apskaita, mokėjimai, profilis — visa tai jau paruošta.
-> - Darbų netrūksta — jų pats neieškosi
-> - Apskaita vienoje vietoje — be galvos skausmo
+> Registruojies vieną kartą - ir darbai eina pas tave, ne tu pas juos. Apskaita, mokėjimai, profilis - visa tai jau paruošta.
+> - Darbų netrūksta - jų pats neieškosi
+> - Apskaita vienoje vietoje - be galvos skausmo
 > - Nemokama skaitmeninė vizitinė kortelė
 
 **Po (žmogiškai):**
-> Registruokis vieną kartą. Klientai randa tave patys — tu tik dirbi.
-> Apskaita, mokėjimai, profilis — viską padarėme už tave.
-> - Užsakymai ateina per paiešką — tu jų neieškosi
+> Registruokis vieną kartą. Klientai randa tave patys - tu tik dirbi.
+> Apskaita, mokėjimai, profilis - viską padarėme už tave.
+> - Užsakymai ateina per paiešką - tu jų neieškosi
 > - Sąskaitos ir mokėjimai vienoje vietoje
-> - Profilis internete — nemokamas
+> - Profilis internete - nemokamas
 
 ### Pavyzdys 2: automobilių servisas
 
@@ -216,4 +216,4 @@ Pavyzdys:
 > Mūsų komanda teikia išsamias automobilių priežiūros paslaugas, naudodami pažangias technologijas ir inovatyvius sprendimus.
 
 **Po:**
-> Remontuojame Vilniuje jau 10 metų. Diagnostika per valandą, remontas per dieną. Žinai kainą iš anksto — jokių staigmenų.
+> Remontuojame Vilniuje jau 10 metų. Diagnostika per valandą, remontas per dieną. Žinai kainą iš anksto - jokių staigmenų.

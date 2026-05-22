@@ -4,24 +4,24 @@
 
 ---
 
-## Kableliai — pagrindinės taisyklės
+## Kableliai - pagrindinės taisyklės
 
-### Kreipiniai — visada su kableliais
+### Kreipiniai - visada su kableliais
 Kreipinys išskiriamas kableliais iš abiejų pusių:
 - `Gerbiamieji kolegos, mes čia girdėjom...`
-- `Susisiekite, ir mes jums padėsime.` (ne kreipinys, bet jungtukas — kablio nereikia iki „ir")
+- `Susisiekite, ir mes jums padėsime.` (ne kreipinys, bet jungtukas - kablio nereikia iki „ir")
 - `Gerbiamieji klientai, registruokitės internetu.`
 - `Ačiū, gerbiamasis pranešėjau.`
 
 **AI klaida:** praleidžia kablelį prieš arba po kreipinio.
 
-### Įterpiniai — kableliais arba brūkšniais
-Įterpiniai (komentarai, papildoma informacija) — skiriami kableliais:
+### Įterpiniai - kableliais arba brūkšniais
+Įterpiniai (komentarai, papildoma informacija) - skiriami kableliais:
 
 **Tikrumo/negrįžtamumo reikšmė:**
-- `Tiesa, šis kelias ilgesnis.` → `tiesa,` — kablelis
-- `Be abejo, rezultatai teigiami.` → `be abejo,` — kablelis
-- `Aišku, kaina priklauso nuo kiekio.` → `aišku,` — kablelis
+- `Tiesa, šis kelias ilgesnis.` → `tiesa,` - kablelis
+- `Be abejo, rezultatai teigiami.` → `be abejo,` - kablelis
+- `Aišku, kaina priklauso nuo kiekio.` → `aišku,` - kablelis
 
 **Spėjimas/netikrumas:**
 - `Matyt, šis variantas tinkamiausias.`
@@ -38,14 +38,14 @@ Kreipinys išskiriamas kableliais iš abiejų pusių:
 | `be abejo,` | `Be abejo, kokybė yra prioritetas.` |
 | `beje,` | `Beje, pristatome ir į namus.` |
 
-**AI klaida:** nerašo kablelio po `pvz.`, `t. y.`, `beje` — tai klaida.
+**AI klaida:** nerašo kablelio po `pvz.`, `t. y.`, `beje` - tai klaida.
 
 ---
 
-## Brūkšnys (–) — kada rašyti
+## Brūkšnys (–) - kada rašyti
 
 ### 1. Vietoje praleistos jungties „yra/buvo" (tarinio praleidimas)
-Kai sakinys reiškia „X yra Y" — brūkšnys vietoje „yra":
+Kai sakinys reiškia „X yra Y" - brūkšnys vietoje „yra":
 - `Mūsų tikslas – kokybiškas remontas.`
 - `Kaina – 50 € per valandą.`
 - `Servisas – Vilniuje, Gedimino pr. 5.`
@@ -54,27 +54,27 @@ Kai sakinys reiškia „X yra Y" — brūkšnys vietoje „yra":
 
 **SVARBU:** Brūkšnys čia rašomas **su tarpais iš abiejų pusių**.
 
-### 2. Bejungtukiai sakiniai — sąlyga, laikas, rezultatas
+### 2. Bejungtukiai sakiniai - sąlyga, laikas, rezultatas
 - `Priims naują įstatymą – mokėsim mokesčius.` (sąlyga → pasekmė)
 - `Kviečia į balių – nueik.` (sąlyga → nurodymas)
 - `Diagnozuojame – žinote gedimą.` (veiksmas → rezultatas)
 
-### 3. Bejungtukiai sakiniai — aiškinimas (dvitaškis arba brūkšnys)
+### 3. Bejungtukiai sakiniai - aiškinimas (dvitaškis arba brūkšnys)
 Kai antroji dalis aiškina pirmąją:
-- `Atsakymas paprastas: remontuojame per dieną.` (dvitaškis — neutralus)
-- `Atsakymas paprastas – remontuojame per dieną.` (brūkšnys — šiek tiek dramatiškiau)
+- `Atsakymas paprastas: remontuojame per dieną.` (dvitaškis - neutralus)
+- `Atsakymas paprastas – remontuojame per dieną.` (brūkšnys - šiek tiek dramatiškiau)
 
 ### 4. Įspraudai (papildoma informacija)
 - `Mūsų servisas – vienintelis rajone – dirba savaitgaliais.`
 - `Diagnostika – greita ir tiksli – kainuoja 30 €.`
 
-### AI klaida — em brūkšnys (—) vietoje brūkšnio (–)
-❌ `Kaina — 50 €`
+### AI klaida - em brūkšnys (-) vietoje brūkšnio (–)
+❌ `Kaina - 50 €`
 ✅ `Kaina – 50 €`
 
 ---
 
-## Dvitaškis (:) — kada rašyti
+## Dvitaškis (:) - kada rašyti
 
 ### Po apibendrinamojo žodžio prieš sąrašą
 - `Siūlome šias paslaugas: diagnostiką, remontą, techninę apžiūrą.`
@@ -86,9 +86,9 @@ Kai antroji dalis aiškina pirmąją:
 
 ---
 
-## Bullet sąrašų skyryba (6 skyrius — skaidomo teksto skyryba)
+## Bullet sąrašų skyryba (6 skyrius - skaidomo teksto skyryba)
 
-### Variantas A — punktai yra savarankiški sakiniai
+### Variantas A - punktai yra savarankiški sakiniai
 Po bendrojo teiginio su dvitaškiu, kiekvienas punktas **prasideda didžiąja raide**, **baigiamas tašku**:
 
 ```
@@ -98,8 +98,8 @@ Registruodamiesi gaunate:
 3. Nuolaidas lojalumo programoje.
 ```
 
-### Variantas B — punktai yra sakinio dalys (ne savarankiški sakiniai)
-Po bendrojo teiginio su dvitaškiu, kiekvienas punktas **prasideda mažąja raide**, **baigiamas kabliataškiu**, paskutinis — **tašku**:
+### Variantas B - punktai yra sakinio dalys (ne savarankiški sakiniai)
+Po bendrojo teiginio su dvitaškiu, kiekvienas punktas **prasideda mažąja raide**, **baigiamas kabliataškiu**, paskutinis - **tašku**:
 
 ```
 Garantija apima:
@@ -108,8 +108,8 @@ Garantija apima:
 - elektros instaliaciją.
 ```
 
-### Variantas C — trumpi bullet punktai (svetainėse dažniausias)
-Trumpi sąrašai be gramatinės priklausomybės — laisvesnė forma, dažnai **be skyrybos ženklų pabaigoje**:
+### Variantas C - trumpi bullet punktai (svetainėse dažniausias)
+Trumpi sąrašai be gramatinės priklausomybės - laisvesnė forma, dažnai **be skyrybos ženklų pabaigoje**:
 
 ```
 ✓ Greitas aptarnavimas
@@ -117,38 +117,38 @@ Trumpi sąrašai be gramatinės priklausomybės — laisvesnė forma, dažnai **
 ✓ Garantija
 ```
 
-**AI klaida:** maišo variantus — didžioji raidė + kabliataškis arba mažoji + taškas.
+**AI klaida:** maišo variantus - didžioji raidė + kabliataškis arba mažoji + taškas.
 
 ---
 
 ## Klaustuko ir šauktuko vartojimas svetainėse
 
 ### Retorinis klausimas kaip antraštė
-Klaustukas antraštėje — leistinas, įtraukia skaitytoją:
+Klaustukas antraštėje - leistinas, įtraukia skaitytoją:
 - `Automobilis sugedo netinkamu laiku?`
 - `Ieškote patikimo serviso Vilniuje?`
 - `Norite žinoti kainą iš anksto?`
 
-### Šauktukas — atsargiai
-Vienas šauktukas — leistinas kaip akcentas:
+### Šauktukas - atsargiai
+Vienas šauktukas - leistinas kaip akcentas:
 - `Registruokitės dabar!`
-- `Skambinkite — atsakysime!`
+- `Skambinkite - atsakysime!`
 
-**Keli šauktupai iš eilės** (`!!!`) — neprofesionalu svetainėse.
+**Keli šauktupai iš eilės** (`!!!`) - neprofesionalu svetainėse.
 
 ---
 
 ## Kabliataškis (;) svetainėse
 
 Vartojamas bullet sąrašuose (žr. Variantas B aukščiau).
-Tekste — rečiau, kai jungiami du glaudžiai susiję sakiniai be jungtumo:
+Tekste - rečiau, kai jungiami du glaudžiai susiję sakiniai be jungtumo:
 - `Diagnostika per valandą; remontas – tą pačią dieną.`
 
 ---
 
 ## Daugtaškis (...) svetainėse
 
-Daugtaškis žymi nutylėjimą arba minties neužbaigtumą — svetainėse **venkite**:
+Daugtaškis žymi nutylėjimą arba minties neužbaigtumą - svetainėse **venkite**:
 ❌ `Kokybiška paslauga ir geras aptarnavimas...`
 ✅ `Kokybiška paslauga ir geras aptarnavimas.`
 
@@ -158,12 +158,12 @@ Leistinas tik ekspresyviose antraštėse arba citatose.
 
 ## Kabutės (citatos ir pavadinimai)
 
-Simboliniai pavadinimai — **kabutėse „..."**:
+Simboliniai pavadinimai - **kabutėse „..."**:
 - `UAB „Revmotors"`
 - `parduotuvė „Maxima"`
 - `programa „Buhalteris Pro"`
 
-Tiesioginė citata — **kabutėse su autoriaus žodžiais**:
+Tiesioginė citata - **kabutėse su autoriaus žodžiais**:
 - `„Automobilis buvo sutvarkytas per dieną," – sako Tomas iš Vilniaus.`
 - `„Rekomenduoju visiems," – Lina K.`
 
@@ -171,7 +171,7 @@ Tiesioginė citata — **kabutėse su autoriaus žodžiais**:
 
 ---
 
-## Prielinksninės konstrukcijos — kableliai nereikalingi
+## Prielinksninės konstrukcijos - kableliai nereikalingi
 
 Šios konstrukcijos **neskiriamos** kableliais:
 - `Dėl greito aptarnavimo klientai grįžta.` (ne `Dėl greito aptarnavimo, klientai grįžta.`)
@@ -184,7 +184,7 @@ Tiesioginė citata — **kabutėse su autoriaus žodžiais**:
 
 | AI rašo | Teisingai | Taisyklė |
 |---|---|---|
-| `Kaina — 50 €` | `Kaina – 50 €` | Em brūkšnys ≠ brūkšnys |
+| `Kaina - 50 €` | `Kaina – 50 €` | Em brūkšnys ≠ brūkšnys |
 | `Siūlome pvz. diagnostiką` | `Siūlome, pvz., diagnostiką` | Įterpinys su kableliais |
 | `"Revmotors"` | `„Revmotors"` | Lietuviškos kabutės |
 | Bullet: `Greitas aptarnavimas;` + `Aiškios kainos.` | Viena forma | Mišri skyryba |

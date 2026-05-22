@@ -1,30 +1,30 @@
-# SEO copy taisyklės — lietuviškoms svetainėms
+# SEO copy taisyklės - lietuviškoms svetainėms
 
 ## Title tag (puslapio pavadinimas)
 
 **Techniniai reikalavimai:**
 - Maksimumas: **60 simbolių** (Google rodo tiek)
 - Minimumas: 30 simbolių
-- Kiekvienas puslapis — unikalus title
+- Kiekvienas puslapis - unikalus title
 
 **Struktūra:**
 ```
 [Pagrindinis rakažodis] | [Įmonės pavadinimas]
 arba
-[Paslauga] [Mieste] — [Įmonė]
+[Paslauga] [Mieste] - [Įmonė]
 arba
-[Ką gali klientas] — [Įmonė]
+[Ką gali klientas] - [Įmonė]
 ```
 
 **Pavyzdžiai:**
 - `Automobilių servisas Vilniuje | RevMotors` (43 simboliai ✅)
-- `Variklio remontas Kaune — greitas servisas` (42 ✅)
+- `Variklio remontas Kaune - greitas servisas` (42 ✅)
 - `Buhalterinės paslaugos verslui | AccountPro` (44 ✅)
 
 **Klaidos:**
 - ❌ `Automobilių remonto ir techninio aptarnavimo bei diagnostikos profesionalios paslaugos Vilniuje` (per ilgas)
 - ❌ `Pagrindinis puslapis` (beprasmis)
-- ❌ `RevMotors — Automobilių servisas — Vilnius — Remontas` (per daug brūkšnių)
+- ❌ `RevMotors - Automobilių servisas - Vilnius - Remontas` (per daug brūkšnių)
 
 ---
 
@@ -42,7 +42,7 @@ arba
 
 **Pavyzdžiai:**
 - `Automobilių diagnostika ir remontas Vilniuje. Tvarkome per dieną, kaina pagal sąmatą. Skambinkite ir registruokitės dabar.` (132 ✅)
-- `Buhalterinės paslaugos smulkiam verslui. Sąskaitos, mokėjimai, ataskaitos — nuo 50 €/mėn. Pirmasis mėnuo nemokamas.` (120 ✅)
+- `Buhalterinės paslaugos smulkiam verslui. Sąskaitos, mokėjimai, ataskaitos - nuo 50 €/mėn. Pirmasis mėnuo nemokamas.` (120 ✅)
 
 **Klaidos:**
 - ❌ `Mūsų įmonė teikia profesionalias automobilių remonto paslaugas aukščiausios kokybės standartais ir inovatyviais metodais.` (AI stilius, nėra CTA)
@@ -50,7 +50,7 @@ arba
 
 ---
 
-## H1 — pagrindinis antraštė
+## H1 - pagrindinis antraštė
 
 **Taisyklės:**
 - Kiekviename puslapyje **tik vienas H1**
@@ -60,12 +60,12 @@ arba
 
 **Pavyzdžiai:**
 - `Automobilių servisas Vilniuje` ✅
-- `Variklio remontas — greitas ir patikimas` ✅
+- `Variklio remontas - greitas ir patikimas` ✅
 - `Automobilio diagnostika per valandą` ✅
 
 ---
 
-## H2 — antrinės antraštės
+## H2 - antrinės antraštės
 
 **Taisyklės:**
 - H2 = skyrių pavadinimai
@@ -99,16 +99,16 @@ arba
 ## Rakažodžiai lietuviškoms svetainėms
 
 **Kaip rasti:**
-- Google Search Console — kokiais žodžiais jus randa
-- Google pasiūlymai — pradėk rašyti ir žiūrėk kas siūloma
+- Google Search Console - kokiais žodžiais jus randa
+- Google pasiūlymai - pradėk rašyti ir žiūrėk kas siūloma
 - „Žmonės taip pat klausia" Google paieškoje
 
 **Lietuviškų rakažodžių ypatumai:**
 - Linksniai keičia žodžius: `automobilių servisas`, `automobilių remontą`, `automobilių servisui`
-- Google supranta, kad tai tas pats rakažodis — nereikia kišti visų formų
+- Google supranta, kad tai tas pats rakažodis - nereikia kišti visų formų
 - Vietovė svarbi: `servisas Vilniuje`, `remontas Kaune`
 
-**Lokali SEO — svarbiausia:**
+**Lokali SEO - svarbiausia:**
 ```
 [Paslauga] + [Miestas]
 automobilių servisas Vilniuje
@@ -144,7 +144,7 @@ interneto svetainių kūrimas Klaipėdoje
 **Meta:** `Sąskaitos, mokėjimai ir ataskaitos vienoje vietoje. Tinka individualioms įmonėms ir MB. Išbandykite 30 dienų nemokamai.`
 
 ### Vietinis verslas
-**Title:** `Kirpykla Kaune — Gedimino pr. | StyleCut`
+**Title:** `Kirpykla Kaune - Gedimino pr. | StyleCut`
 **H1:** `Kirpykla Kauno centre`
 **Meta:** `Vyriški ir moteriški kirpimai Kaune. Registracija internetu, laukimo eilių nėra. Atidaryti kasdien 9–20 val.`
 
@@ -154,7 +154,7 @@ interneto svetainių kūrimas Klaipėdoje
 
 **Pirmame paragrafe** turi būti pagrindinis rakažodis.
 
-**Natūraliai kartokite rakažodį** — ne mechaniška spam, o natūrali kalba:
+**Natūraliai kartokite rakažodį** - ne mechaniška spam, o natūrali kalba:
 - Antraštėse (H1, H2)
 - Pirmame sakinyje
 - Alt tekstuose prie nuotraukų

@@ -1,19 +1,19 @@
 # VLKK Lietuvių kalbos rašybos taisyklės (2022)
 # Šaltinis: https://www.vlkk.lt/media/public/file/Nutarimai/Rašyba_2022.pdf
-# Visi 11 skyrių — ištrauktos taisyklės aktualios svetainių tekstams ir AI rašymo klaidoms
+# Visi 11 skyrių - ištrauktos taisyklės aktualios svetainių tekstams ir AI rašymo klaidoms
 
 ---
 
-## 2 skyrius — Balsių rašymas
+## 2 skyrius - Balsių rašymas
 
 ### Dažniausios AI klaidos su balsiais
 
 **y / i painiojimas:**
-- `būrys` (ne `būris` — grupė), `boras` (ne `buoras`)
+- `būrys` (ne `būris` - grupė), `boras` (ne `buoras`)
 - Žodžiai su y: rytas, lytas, bylas, kyšis, gyvas, tyras
 - Žodžiai su i: ritas (vardas), litas (valiuta), bilas
 
-**Nosinės raidės ą ę į ų — AI dažnai praleidžia:**
+**Nosinės raidės ą ę į ų - AI dažnai praleidžia:**
 - Būtinai rašomos: šią, tą, šių, tų, mūsų, jūsų, sąskaita, ką, kąsnį
 - Klaida: `sąskaita` → `saskaita`, `mūsų` → `musu`
 
@@ -22,12 +22,12 @@
 
 ---
 
-## 3 skyrius — Priebalsių rašymas
+## 3 skyrius - Priebalsių rašymas
 
 ### Svarbiausia praktinė taisyklė
-Priebalsiai dažniausiai rašomi pagal tarimą (fonetinis principas), bet kai kurie — pagal kilmę (morfologinis principas).
+Priebalsiai dažniausiai rašomi pagal tarimą (fonetinis principas), bet kai kurie - pagal kilmę (morfologinis principas).
 
-**Morfologinė rašyba — rašome pagal giminiškus žodžius:**
+**Morfologinė rašyba - rašome pagal giminiškus žodžius:**
 - `draugas` → `draugų` (ne `draukų`), `draugui` (ne `draukui`)
 - `vadas` → `vadų` (ne `vatų`)
 
@@ -37,7 +37,7 @@ Priebalsiai dažniausiai rašomi pagal tarimą (fonetinis principas), bet kai ku
 
 ---
 
-## 4 skyrius — Sudurtinių žodžių rašymas
+## 4 skyrius - Sudurtinių žodžių rašymas
 
 ### Sudurtiniai žodžiai rašomi KARTU (be brūkšnelio)
 - `tinklalapis` (ne `tinkla-lapis`)
@@ -58,18 +58,18 @@ Priebalsiai dažniausiai rašomi pagal tarimą (fonetinis principas), bet kai ku
 
 ---
 
-## 5 skyrius — Žodžių rašymas kartu arba atskirai
+## 5 skyrius - Žodžių rašymas kartu arba atskirai
 
-### Neiginys NE — kartu ar atskirai?
+### Neiginys NE - kartu ar atskirai?
 
-**NE rašomas KARTU** — kai suteikia priešingą reikšmę:
+**NE rašomas KARTU** - kai suteikia priešingą reikšmę:
 - `nedarbas`, `nelaimė`, `nesėkmė`, `nešlovė`, `negarbė`
 - `neaiškus`, `nedidelis`, `nedoras`, `nešvarus`, `nejautrus`
 - `negalėti`, `nedrausti`, `nematyti`, `nepriklausyti`
 - `nemažai`, `netoli`, `nenorom`, `nejučia`
 - `nepriklausomybė`, `nemirtingumas`, `netektis`
 
-**NE rašomas ATSKIRAI** — kai prieštaraujama arba paneigiama:
+**NE rašomas ATSKIRAI** - kai prieštaraujama arba paneigiama:
 - `Ne grožis žmogų puošia, o jo darbai.`
 - `Svarbiausia – ne pinigai, o vaikai.`
 - `Ne darbas, o šeima jai rūpi.`
@@ -81,7 +81,7 @@ Priebalsiai dažniausiai rašomi pagal tarimą (fonetinis principas), bet kai ku
 ### Prielinksniai rašomi atskirai
 - `iš anksto` (ne `išanksto`)
 - `iš dalies` (ne `išdalies`)
-- `iš tiesų` (ne `iš tiesų`) — šis teisingas
+- `iš tiesų` (ne `iš tiesų`) - šis teisingas
 - `už dyką` (ne `uždyką`)
 - `po truputį` (ne `potruputį`)
 
@@ -93,14 +93,14 @@ Priebalsiai dažniausiai rašomi pagal tarimą (fonetinis principas), bet kai ku
 
 ---
 
-## 6 skyrius — Žodžių kėlimas į kitą eilutę
+## 6 skyrius - Žodžių kėlimas į kitą eilutę
 
 Žodžiai keliami **skiemenimis**: drą-sus, kny-ga, pi-lis, ry-tas.
-*(Mažai aktualu svetainių tekstams — CMS tvarko automatiškai.)*
+*(Mažai aktualu svetainių tekstams - CMS tvarko automatiškai.)*
 
 ---
 
-## 7 skyrius — Didžiųjų raidžių rašymas
+## 7 skyrius - Didžiųjų raidžių rašymas
 
 ### Pagrindinės taisyklės
 
@@ -112,11 +112,11 @@ Priebalsiai dažniausiai rašomi pagal tarimą (fonetinis principas), bet kai ku
 **Iš MAŽOSIOS raidės:**
 - Pareigų pavadinimai bendrame tekste: `direktorius`, `ministras`, `prezidentas`
   - Išimtis stilistinei pagarbai: `Lietuvos Respublikos Prezidentas`
-- Tautybės kaip būdvardžiai: `lietuviška`, `vokiška` (bet `lietuvis`, `vokietis` — iš didžiosios)
+- Tautybės kaip būdvardžiai: `lietuviška`, `vokiška` (bet `lietuvis`, `vokietis` - iš didžiosios)
 - Savaitės dienos: `pirmadienis`, `antradienis`
 - Mėnesiai: `sausis`, `vasaris`, `kovas`
 
-### AI klaida — Title Case
+### AI klaida - Title Case
 AI dažnai rašo kiekvieną antraštės žodį iš didžiosios:
 ❌ `Automobilių Servisas Vilniuje`
 ✅ `Automobilių servisas Vilniuje`
@@ -135,11 +135,11 @@ Reiškiant pagarbą adresatui leidžiama rašyti iš didžiosios:
 
 ---
 
-## 8 skyrius — Tikrinių vardų ir pavadinimų rašymas
+## 8 skyrius - Tikrinių vardų ir pavadinimų rašymas
 
 ### Įmonių, paslaugų pavadinimai
 
-**Simboliniai pavadinimai** — rašomi **kabutėse** ir iš didžiosios:
+**Simboliniai pavadinimai** - rašomi **kabutėse** ir iš didžiosios:
 - kavinė „Skonis", UAB „Revmotors", parduotuvė „Maxima"
 - socialinis projektas „Draugiškas miestas"
 
@@ -148,7 +148,7 @@ Reiškiant pagarbą adresatui leidžiama rašyti iš didžiosios:
 - Lietuvos bankas (ne kabutėse)
 - Vilniaus miesto savivaldybė
 
-**Interneto svetainių adresai** — be kabutių:
+**Interneto svetainių adresai** - be kabutių:
 - revmotors.lt, vlkk.lt, google.com
 
 ### Mėnesių ir savaitės dienų rašyba
@@ -157,7 +157,7 @@ Reiškiant pagarbą adresatui leidžiama rašyti iš didžiosios:
 
 ---
 
-## 9 skyrius — Kitų kalbų žodžių rašymas
+## 9 skyrius - Kitų kalbų žodžių rašymas
 
 ### Svetimžodžiai lietuviškuose tekstuose
 
@@ -169,7 +169,7 @@ Reiškiant pagarbą adresatui leidžiama rašyti iš didžiosios:
 - Prekių ženklai: `Apple`, `Google`, `Tesla`
 - Programų pavadinimai: `Instagram`, `LinkedIn`
 
-**AI klaida:** transkribuoja prekių ženklus (`Aplas` vietoj `Apple`) — neteisingai.
+**AI klaida:** transkribuoja prekių ženklus (`Aplas` vietoj `Apple`) - neteisingai.
 
 ### Tarptautiniai žodžiai
 Daugelis tarptautinių žodžių lietuviškame tekste rašomi **pritaikant lietuvišką galūnę**:
@@ -178,7 +178,7 @@ Daugelis tarptautinių žodžių lietuviškame tekste rašomi **pritaikant lietu
 
 ---
 
-## 10 skyrius — Santrumpų rašymas
+## 10 skyrius - Santrumpų rašymas
 
 ### Dažniausiai vartojamos santrumpos svetainėse
 
@@ -192,13 +192,13 @@ Daugelis tarptautinių žodžių lietuviškame tekste rašomi **pritaikant lietu
 
 **Kiekio:**
 - `vnt.` = vienetas: `10 vnt.`
-- `kg`, `g`, `km`, `m`, `cm` — be taško (matavimo vienetai)
+- `kg`, `g`, `km`, `m`, `cm` - be taško (matavimo vienetai)
 - `proc.` = procentas: `20 proc.` (arba `20 %` su tarpu)
 
 **Pinigai:**
-- `€`, `$` — po skaičiaus su tarpu: `10 €`, `50 $`
+- `€`, `$` - po skaičiaus su tarpu: `10 €`, `50 $`
 - `ct` = centas
-- `Eur`, `EUR` — raidinė santrumpa
+- `Eur`, `EUR` - raidinė santrumpa
 
 **El. komunikacija:**
 - `el. paštas` arba `e. paštas` (NE `e-paštas`, NE `email`)
@@ -221,16 +221,16 @@ Daugelis tarptautinių žodžių lietuviškame tekste rašomi **pritaikant lietu
 - Buto numeris su brūkšneliu: `Gedimino g. 5-12`
 
 ### Santrumpos sakinyje
-Santrumpos po kurių eina taškas — sakinio pabaigoje rašomas tik vienas taškas:
+Santrumpos po kurių eina taškas - sakinio pabaigoje rašomas tik vienas taškas:
 - `Dirba I–V, 9–18 val.` (ne `val..`)
 
 ---
 
-## 11 skyrius — Grafinių ženklų rašymas
+## 11 skyrius - Grafinių ženklų rašymas
 
-### Brūkšnelis (-) ir brūkšnys (–) — svarbiausia riba
+### Brūkšnelis (-) ir brūkšnys (–) - svarbiausia riba
 
-**Brūkšnelis (-) — VISADA be tarpų, jungia į visumą:**
+**Brūkšnelis (-) - VISADA be tarpų, jungia į visumą:**
 - Dvigubos pavardės: `Kymantaitė-Čiurlionienė`
 - Du lygiaverčiai daiktavardžiai (vienas daiktas): `konferencija-forumas`, `paroda-mugė`, `lopšelis-darželis`
 - Skaičių galūnės: `1-as`, `3-ias`, `2019-ieji`, `50-metis`, `100-milijoninė`
@@ -241,22 +241,22 @@ Santrumpos po kurių eina taškas — sakinio pabaigoje rašomas tik vienas taš
 - Priešdėliai kartu: `postmodernizmas`, `kontrkultūra` (NE `post-modernizmas`)
 - Pareigų dubletai: `gydytojas terapeutas` (NE `gydytojas-terapeutas`)
 
-**Brūkšnys (–) kaip skyrybos ženklas — su tarpais:**
+**Brūkšnys (–) kaip skyrybos ženklas - su tarpais:**
 - `Registruokitės – ir darbas ateina pas Jus.`
 - `Kaina – 50 €.`
 - `Vilnius – sostinė.`
 
-**Brūkšnys (–) kaip rašybos ženklas (apimtis) — be tarpų:**
+**Brūkšnys (–) kaip rašybos ženklas (apimtis) - be tarpų:**
 - `1918–1940 m.`
 - `Vilnius–Kaunas` (maršrutas)
 - `I–V` (pirmadienis–penktadienis)
 - `9–18 val.`
 
-**AI KLAIDA — em brūkšnys (—) nenaudojamas lietuvių kalboje:**
-❌ `Greitas — patikimas — nebrangus`
+**AI KLAIDA - em brūkšnys (-) nenaudojamas lietuvių kalboje:**
+❌ `Greitas - patikimas - nebrangus`
 ✅ `Greitas, patikimas, nebrangus`
 
-❌ `Remontas — per dieną`
+❌ `Remontas - per dieną`
 ✅ `Remontas – per dieną`
 
 ### Kabutės lietuvių kalboje
@@ -265,11 +265,11 @@ Santrumpos po kurių eina taškas — sakinio pabaigoje rašomas tik vienas taš
 - Uždaromosios viršuje: "
 - Pvz.: `paslaugų „Greitas pristatymas"`, `UAB „Revmotors"`
 
-**AI klaida:** naudoja angliškus kabutes `"..."` — tai klaida.
+**AI klaida:** naudoja angliškus kabutes `"..."` - tai klaida.
 
 ### Skaičiai
-- `€`, `$` — PO skaičiaus: `10 €` (NE `€10`)
-- `%` — su tarpu: `20 %` arba `20 proc.`
+- `€`, `$` - PO skaičiaus: `10 €` (NE `€10`)
+- `%` - su tarpu: `20 %` arba `20 proc.`
 - Telefonai BEZ brūkšnelių: `(8 5) 333 3333`, `+370 600 12345`
 - Data: `2024-05-20` arba `2024 m. gegužės 20 d.`
 - Kaina per mėnesį: `50 €/mėn.`
@@ -281,11 +281,11 @@ Santrumpos po kurių eina taškas — sakinio pabaigoje rašomas tik vienas taš
 
 ---
 
-## Greita kontrolės lentelė — dažniausios AI klaidos
+## Greita kontrolės lentelė - dažniausios AI klaidos
 
 | AI rašo | Teisingai | Taisyklė |
 |---|---|---|
-| `—` (em dash) | `–` su tarpais | Skyrius 11 |
+| `-` (em dash) | `–` su tarpais | Skyrius 11 |
 | `"tekstas"` | `„tekstas"` | Skyrius 11.5 |
 | `€10` | `10 €` | Skyrius 11.6 |
 | `e-paštas` | `el. paštas` | Skyrius 11.1 |
