@@ -1,4 +1,14 @@
-SEO + AI SEO auditas lietuviškoms svetainėms. Sujungia tradicinius SEO patikrinimus su AI paieškos matomumo analize ir lietuviškos copy kokybe.
+SEO + AI SEO auditas lietuviškoms svetainėms. VISADA pradėk nuo plano - parodyk ką ketini daryti ir lauk patvirtinimo PRIEŠ pradėdamas auditą.
+
+## SVARBU: planas pirma, auditas paskui
+
+**Niekada nepradėk audito be patvirtinimo.** Visada:
+1. Surink pradinę informaciją (URL, verslo tipas)
+2. Parodyk planą - ką tikrinsit, kokia apimtis, kiek laiko
+3. Lauk „taip" arba pakeitimų
+4. Tik tada vykdyk
+
+---
 
 ## Naudok šiuos skillius kartu
 
@@ -32,15 +42,68 @@ SEO + AI SEO auditas lietuviškoms svetainėms. Sujungia tradicinius SEO patikri
 
 ---
 
-## 1 žingsnis - nustatyk kontekstą
+## 1 žingsnis - greita apžvalga ir PLANAS
 
-Iš URL arba projekto failų išsiaiškink:
-- **Verslo tipas** - vietinis verslas / e-commerce / SaaS / portfolio?
-- **Miestas / regionas** - Vilnius, Kaunas, Klaipėda, visa Lietuva?
-- **Pagrindinė paslauga / produktas** - kas parduodama?
-- **Kalba** - lietuvių / anglų / mišri?
+Prieš darydamas bet ką - surink pradinę informaciją ir pateik planą patvirtinimui.
 
-Jei vietinis verslas (servisas, kirpykla, advokatai, t.t.) → taip pat taikyk `seo-local` skillio taisykles.
+### 1a. Greita apžvalga (1-2 min)
+
+Jei gautas URL - fetch'ink pagrindinį puslapį ir greitai nuskaityk:
+- Verslo pavadinimas ir tipas
+- Pagrindinė paslauga ir miestas
+- Kalba (LT / EN / mišri)
+- Akivaizdžios problemos (jei matosi iš karto)
+
+Jei gautas projektas (failai) - perskaityk `package.json`, `next.config`, pagrindinio puslapio failą.
+
+### 1b. Pateik PLANĄ patvirtinimui
+
+Parodyk šį planą PRIEŠ pradėdamas auditą:
+
+```
+══════════════════════════════════════════════
+📋 SEO-LT PLANAS: [URL arba projektas]
+══════════════════════════════════════════════
+
+🏢 Verslas:    [pavadinimas]
+📍 Tipas:      [vietinis / e-comm / SaaS]
+🌍 Miestas:    [Vilnius / Kaunas / visa LT]
+🔧 Duomenys:   [WebFetch / failai / DataForSEO ✅ / DataForSEO ❌]
+
+KĄ TIKRINSIU:
+──────────────────────────────────────────────
+[✓] Techninis SEO       - robots.txt, sitemap, schema, HTTPS
+[✓] On-page             - title, meta, H1/H2, alt tekstai
+[✓] Lietuviška copy     - AI šablonai, gramatika, brūkšniai
+[✓] AI SEO (GEO)        - citabilumas, llms.txt, AI crawleriai
+[✓] SXO                 - intent match, puslapio tipas vs SERP
+[ ] Vietinis SEO        - tik jei vietinis verslas
+[ ] DataForSEO duomenys - [neprijungta / prijungta]
+
+APIMTIS:
+  Puslapiai:   [pagrindinis / visi / nurodytas]
+  Apytikslis laikas: ~[5-15] min
+
+KO NEGALĖSIU PATIKRINTI BE PAPILDOMŲ ĮRANKIŲ:
+  ⚠️  Realios pozicijos Google (reikia DataForSEO)
+  ⚠️  Rakažodžių paieškų apimtys (reikia DataForSEO)
+  ⚠️  Konkurentų lyginimas (reikia DataForSEO)
+  ⚠️  JS-injected schema (reikia browser arba rich-results-test)
+
+══════════════════════════════════════════════
+Pradėti auditą? (taip / keisti apimtį / atšaukti)
+══════════════════════════════════════════════
+```
+
+**LAUK ATSAKYMO.** Nepradėk audito be patvirtinimo.
+
+Galimi atsakymai:
+- `taip` → vykdyk visą planą
+- `tik techninis` → daro tik techninį SEO
+- `tik copy` → daro tik lietuviškos copy auditą
+- `tik AI SEO` → daro tik AI SEO / GEO analizę
+- `pridėk DataForSEO` → vartotojas prijungs ir grįš
+- `atšaukti` → sustabdyk
 
 ---
 
