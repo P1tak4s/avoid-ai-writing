@@ -23,6 +23,8 @@ Load these into context as needed:
 
 - `references/english-patterns.md` — 43-entry word replacement table, structural patterns, formatting rules, second-pass checklist (English)
 - `references/lithuanian-patterns.md` — Lithuanian word replacements, grammar fixes, calque patterns, loan-word table, second-pass checklist (Lithuanian)
+- `references/lithuanian-web-copy.md` — Lithuanian website tone guide, grammar mistakes Claude makes, natural phrases, before/after examples
+- `references/vlkk-grammar-rules.md` — Official VLKK 2022 spelling rules: brūkšnelis vs brūkšnys, kabutės, skaičiai, sutrumpinimai
 
 ## Process
 
